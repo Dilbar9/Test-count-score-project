@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+    position: relative;
+    width: 575px;
+    height: 385px;
+    background: #1B244A;
+}
+
+.container .column {
+    justify-content: space-around;
+    position: relative;
+    width: 149px;
+    height: 36px;
+    left: 85px;
+    top: 68px;
+    font-family: 'Verdana';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 36px;
+    text-align: center;
+    color: #EEEEEE;
+    display: inline-block;
+    margin-left: 100;
+    
+}
+
+.score {
+    background: #0a0001;
+    font-size: 90px;
+    color: #F94F6D;
+    width: 120px;
+    margin: 20px;
+}
+
+button {
+    background: fffff;
+}
